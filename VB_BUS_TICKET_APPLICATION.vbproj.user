@@ -19,6 +19,9 @@
     <Compile Update="LOGIN.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Result.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="SIGNUP.vb">
       <SubType>Form</SubType>
     </Compile>
