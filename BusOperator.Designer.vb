@@ -126,60 +126,60 @@ Partial Class BusOperator
         Me.LinkLabel1.AutoSize = True
         Me.LinkLabel1.Location = New System.Drawing.Point(151, 268)
         Me.LinkLabel1.Name = "LinkLabel1"
-        Me.LinkLabel1.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel1.Size = New System.Drawing.Size(47, 15)
         Me.LinkLabel1.TabIndex = 8
         Me.LinkLabel1.TabStop = True
-        Me.LinkLabel1.Text = "LinkLabel1"
+        Me.LinkLabel1.Text = "ALISAN"
         '
         'LinkLabel2
         '
         Me.LinkLabel2.AutoSize = True
         Me.LinkLabel2.Location = New System.Drawing.Point(489, 268)
         Me.LinkLabel2.Name = "LinkLabel2"
-        Me.LinkLabel2.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel2.Size = New System.Drawing.Size(58, 15)
         Me.LinkLabel2.TabIndex = 9
         Me.LinkLabel2.TabStop = True
-        Me.LinkLabel2.Text = "LinkLabel2"
+        Me.LinkLabel2.Text = "ARWANA"
         '
         'LinkLabel3
         '
         Me.LinkLabel3.AutoSize = True
         Me.LinkLabel3.Location = New System.Drawing.Point(796, 268)
         Me.LinkLabel3.Name = "LinkLabel3"
-        Me.LinkLabel3.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel3.Size = New System.Drawing.Size(79, 15)
         Me.LinkLabel3.TabIndex = 10
         Me.LinkLabel3.TabStop = True
-        Me.LinkLabel3.Text = "LinkLabel3"
+        Me.LinkLabel3.Text = "BILLION STAR"
         '
         'LinkLabel4
         '
         Me.LinkLabel4.AutoSize = True
         Me.LinkLabel4.Location = New System.Drawing.Point(151, 506)
         Me.LinkLabel4.Name = "LinkLabel4"
-        Me.LinkLabel4.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel4.Size = New System.Drawing.Size(79, 15)
         Me.LinkLabel4.TabIndex = 11
         Me.LinkLabel4.TabStop = True
-        Me.LinkLabel4.Text = "LinkLabel4"
+        Me.LinkLabel4.Text = "CITY EXPRESS"
         '
         'LinkLabel5
         '
         Me.LinkLabel5.AutoSize = True
         Me.LinkLabel5.Location = New System.Drawing.Point(476, 506)
         Me.LinkLabel5.Name = "LinkLabel5"
-        Me.LinkLabel5.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel5.Size = New System.Drawing.Size(64, 15)
         Me.LinkLabel5.TabIndex = 12
         Me.LinkLabel5.TabStop = True
-        Me.LinkLabel5.Text = "LinkLabel5"
+        Me.LinkLabel5.Text = "FIVE STARS"
         '
         'LinkLabel6
         '
         Me.LinkLabel6.AutoSize = True
         Me.LinkLabel6.Location = New System.Drawing.Point(796, 506)
         Me.LinkLabel6.Name = "LinkLabel6"
-        Me.LinkLabel6.Size = New System.Drawing.Size(63, 15)
+        Me.LinkLabel6.Size = New System.Drawing.Size(34, 15)
         Me.LinkLabel6.TabIndex = 13
         Me.LinkLabel6.TabStop = True
-        Me.LinkLabel6.Text = "LinkLabel6"
+        Me.LinkLabel6.Text = "KKKL"
         '
         'BusOperator
         '
